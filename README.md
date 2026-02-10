@@ -10,7 +10,7 @@
 
        make package/openwrt-argon/luci-theme-argon/clean
 
-后面正常编译。
+后面正常选取编译。
 
 安装完主题编译op系统或安装主题后请清理浏览器缓存，不然很有可能没变化
 

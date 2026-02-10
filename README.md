@@ -6,9 +6,9 @@
 
 然后用：
        
-       make package/argon/luci-app-argon-config/clean
+       make package/openwrt-argon/luci-app-argon-config/clean
 
-       make package/argon/luci-theme-argon/clean
+       make package/openwrt-argon/luci-theme-argon/clean
 
 安装完主题编译op系统或这个主题后请清理浏览器缓存，不然很有可能没变化
 

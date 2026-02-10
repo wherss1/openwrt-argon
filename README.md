@@ -1,2 +1,10 @@
 # luci-theme-argon
 新argon修改绿色主色调，圆边按钮，圆边图标
+把luci-theme-argon和luci-app-argon-config拉取到package目录里
+然后用：make package/luci-app-argon-config/clean
+       make package/luci-theme-argon/clean
+后面正常编译
+图片展示：
+<img width="1918" height="923" alt="a2cc8299-64a5-4df1-88b6-244f7fa227ac" src="https://github.com/user-attachments/assets/d9d6d5db-8498-422b-8e0e-dd9793371a6c" />
+<img width="1916" height="910" alt="3273a47c-a485-42ac-a34e-db14346ca041" src="https://github.com/user-attachments/assets/ee0fa0c8-5e0f-4437-b2e4-8638030bd28d" />
+<img width="1913" height="909" alt="45dde926-2df3-47f2-801e-1e29356bb061" src="https://github.com/user-attachments/assets/1c4b65b8-ec57-49ce-bdf8-ab8e679b07a2" />

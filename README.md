@@ -1,8 +1,8 @@
 # openwrt-argon
 
-新argon修改绿色主色调，圆边按钮，圆边图标
+新openwrt-argon修改绿色主色调，圆边按钮，圆边图标
 
-把argon拉取到package主目录里
+把openwrt-argon拉取到package主目录里
 
 然后用：
        

@@ -2,13 +2,7 @@
 
 新openwrt-argon修改绿色主色调，圆边按钮，圆边图标
 
-删除系统自带的argon，然后把openwrt-argon拉取到package主目录里
-
-然后用：
-       
-       make package/openwrt-argon/luci-app-argon-config/clean
-
-       make package/openwrt-argon/luci-theme-argon/clean
+删除系统自带的luci-app-argon-config和luci-theme-argon的包，然后把openwrt-argon拉取到package主目录里
 
 后面正常选取编译。
 

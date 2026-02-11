@@ -2,7 +2,7 @@
 
 新openwrt-argon修改绿色主色调，圆边按钮，圆边图标
 
-把openwrt-argon拉取到package主目录里
+删除系统自带的argon，然后把openwrt-argon拉取到package主目录里
 
 然后用：
        
